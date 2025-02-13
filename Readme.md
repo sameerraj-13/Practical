@@ -76,5 +76,15 @@ def tri(n):
 ## Author
 S.R
 
+## Future Updates
+More practical Python scripts will be added to this repository in the future. Stay tuned for updates!
+
 ## License
 This project is licensed under the MIT License.
+
+```
+Thank You
+*Arigato*
+Team,
+SR
+```

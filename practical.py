@@ -1,5 +1,7 @@
 # Python CODE for the practical. #
 
+# CODE (START) #
+
 # CODE 1:
 
 #To find the max no among the three no.
@@ -14,7 +16,9 @@ c = int(input("Enter the 3rd no:"))
 
 no = max_no(a,b,c)
 print("The max no is:", no)
-
+        
+        #    --------------------------------------------     # 
+        
 # CODE 2:
 
 #To print the table of the given no.
@@ -25,6 +29,8 @@ def table(n):
 n = int(input("Enter the no:"))
 print("Table of", n, "is:")
 table(n)
+        
+        #    --------------------------------------------     # 
 
 # CODE 3:
 
@@ -37,6 +43,8 @@ def tri(n):
         print()
 n = int(input("Enter the no:"))
 tri(n)
+        
+        #    --------------------------------------------     # 
 
 # CODE 4:
 
@@ -47,6 +55,8 @@ def invert(n):
         print()
 n = int(input("Enter the no:"))
 invert(n)
+
+        #    --------------------------------------------     #
 
 # CODE 5:
 
@@ -61,6 +71,8 @@ def tri(n):
 n = int(input("Enter the no:"))
 tri(n)
 
+        #    --------------------------------------------     #
+
 # CODE 6:
 
 # To print the triangle of stars. Ulti triangle.
@@ -73,3 +85,14 @@ def tri(n):
         print()
 n = int(input("Enter the no:"))
 tri(n)
+
+        #    --------------------------------------------     #
+
+## Future Updates
+'''
+More practical Python scripts will be added to this repository in the future. 
+Stay tuned for updates!
+'''
+
+
+# CODE (END) #

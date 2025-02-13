@@ -73,18 +73,16 @@ def tri(n):
    python practical.py
    ```
 
-## Author
-S.R
-
 ## Future Updates
 More practical Python scripts will be added to this repository in the future. Stay tuned for updates!
 
 ## License
 This project is licensed under the MIT License.
 
+## Author
+S.R
 ```
-Thank You
-*Arigato*
+Thank You! (Arigato)
 Team,
 SR
 ```
